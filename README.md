@@ -224,3 +224,4 @@ Dashboard hellping you with viewing all configurations and manage them in a easi
 [github_repo](https://github.com/donaldzou/WGDashboard#-install)
 
 *Notes*: must to be installed with *apt gunicorn*, *pip ifcfg,flask,flask_qrcode,icmplib*
+
